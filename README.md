@@ -96,8 +96,6 @@ The analysis is built on three core datasets:
 
 ---
 
----
-
 ### 🚀 Impact
 This project demonstrates how **district-level analytics** can uncover operational blind spots in large national systems like Aadhaar. The framework is **scalable, replicable, and policy-relevant**, making it suitable for real-world deployment in public infrastructure planning.
 
